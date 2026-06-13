@@ -1,0 +1,15 @@
+{
+  "name": "globmatch",
+  "version": "1.0.0",
+  "description": "Zero-dep glob pattern matcher — *, **, ?, [abc], {a,b}, negation, brace expansion",
+  "main": "src/index.js",
+  "bin": {
+    "globmatch": "src/cli.js"
+  },
+  "scripts": {
+    "test": "node test/index.test.js"
+  },
+  "keywords": ["glob", "pattern", "match", "wildcard", "micromatch", "minimatch"],
+  "license": "MIT",
+  "author": "sulthonzh"
+}
