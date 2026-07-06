@@ -9,7 +9,19 @@
   "scripts": {
     "test": "node test/index.test.js"
   },
-  "keywords": ["glob", "pattern", "match", "wildcard", "micromatch", "minimatch"],
+  "keywords": [
+    "glob",
+    "pattern",
+    "match",
+    "wildcard",
+    "micromatch",
+    "minimatch"
+  ],
   "license": "MIT",
-  "author": "sulthonzh"
+  "author": "sulthonzh",
+  "files": [
+    "src/",
+    "README.md",
+    "LICENSE"
+  ]
 }
